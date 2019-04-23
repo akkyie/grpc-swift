@@ -1,4 +1,4 @@
 module BoringSSL {
-    umbrella "../../../Sources/BoringSSL/include"
+    umbrella "/Users/aky/Projects/akkyie/grpc-swift/Sources/BoringSSL/include"
     export *
 }
